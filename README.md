@@ -1,4 +1,7 @@
 # Linear-Regression
+ 
+![alt text](https://theffork.com/wp-content/uploads/2019/01/1_eeIvlwkMNG1wSmj3FR6M2g-2.gif "Logo Title Text 1")
+
 ## What is Linear Regression?
 It is a method used for predicting future values by finding a linear pattern in the previously given data. The linear pattern in the data can be represented by a best-fit line on the graph.
 
